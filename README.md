@@ -1,16 +1,15 @@
-### Hi there 👋
+#                Olá 👋, sou Robson Mattos
+# analista de desenvolvimento de sistemas 🚀 do Brasil
 
-<!--
-**RobsonMattosProgramador/RobsonMattosProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Sobre mim
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔥 Altamente apaixonado por programação web e Mobile e ❤️ amo 📚 explorar coisas novas.
+#### 👨‍🎓 Estudante analise e desenvolvimento de sistemas. Faculdade Santa Cruz (Término 02/03/2024)
+#### 👨‍💻 Front-end: HTML, CSS, JavaScript, Bootstrap, WordPress.
+#### 🖥️ Back End: PHP,JavaScript, Ajax , JQuery.
+#### ✔ Framework: Laravel PHP.
+#### 💾 Banco de dados: MySQL, MongoDB.
+#### 📱 Mobile: Ionic , Flutter.
+#### 🎮 Game: Construct 2.
+#### 😃 Fico feliz em conversar sobre desenvolvimento web...
+#### 📫 Como entrar em contato comigo:via LinkedIn https://linkedin.com/
