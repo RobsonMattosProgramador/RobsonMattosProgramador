@@ -1,5 +1,5 @@
 #                Olá 👋, sou Robson Mattos
-# analista de desenvolvimento de sistemas 🚀 do Brasil
+# Analista de desenvolvimento de sistemas 🚀 do Brasil
 
 # 💻 Sobre mim
 
