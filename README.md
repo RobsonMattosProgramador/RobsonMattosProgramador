@@ -14,4 +14,4 @@
 #### 📱 Mobile: Ionic , Flutter.
 #### 🎮 Game: Construct 2.
 #### 😃 Fico feliz em conversar sobre desenvolvimento web...
-#### 📫 Como entrar em contato comigo:via LinkedIn https://linkedin.com/
+#### 📫 Como entrar em contato comigo:via LinkedIn https://www.linkedin.com/in/robson-mattos-4839bb250
